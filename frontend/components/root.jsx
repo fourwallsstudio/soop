@@ -1,8 +1,11 @@
-import React from 'react';
+import React from 'react'
+import App from './App'
 
 const Root = () => {
   return (
-    <div>soop world</div>
+    <div>
+      <App />
+    </div>
   )
 }
 
